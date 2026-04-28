@@ -1,3 +1,5 @@
+![Status](https://img.shields.io/badge/Status-Completed-green)
+
 <p align="center">
   <img src="<img width="2250" height="900" alt="image" src="https://github.com/user-attachments/assets/7295de22-8dbb-4a3d-81d3-f136aadbfbd7" />
 >
